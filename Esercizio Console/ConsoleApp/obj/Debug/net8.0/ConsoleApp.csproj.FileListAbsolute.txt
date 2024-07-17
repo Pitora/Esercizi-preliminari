@@ -1,0 +1,28 @@
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\Pietro\Desktop\Esercizio\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+D:\Stage\Esercizi-preliminari\Esercizio Console\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
